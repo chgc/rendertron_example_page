@@ -1,0 +1,11 @@
+E:\practice\coreSW\coreSW
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=coreSW
+--content-root=E:\practice\coreSW\coreSW
+--file=E:\practice\coreSW\coreSW\Views\Home\Index.cshtml
+--file=E:\practice\coreSW\coreSW\Views\Shared\Components\ScriptHTML\Index.cshtml
+--file=E:\practice\coreSW\coreSW\Views\Shared\Error.cshtml
+--file=E:\practice\coreSW\coreSW\Views\Shared\_Layout.cshtml
+--file=E:\practice\coreSW\coreSW\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\practice\coreSW\coreSW\Views\_ViewImports.cshtml
+--file=E:\practice\coreSW\coreSW\Views\_ViewStart.cshtml

@@ -1,0 +1,20 @@
+﻿@using System.IO
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- facebook and other social sites -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="AngularTaiwan - rendertron demo site">
+    <meta property="og:title" content="Home Page">
+    <meta property="og:description" content="Server side rendering that works - believe it">
+    <meta property="og:image" content="https://instafire-app.firebaseapp.com/assets/seo.jpeg">
+    <meta property="og:url" content="https://ng-rendertron.azurewebsites.net/">
+</head>
+<body>
+    @RenderBody()
+    @await Component.InvokeAsync("ScriptHTML")
+</body>
+</html>

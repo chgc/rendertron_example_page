@@ -1,0 +1,11 @@
+E:\practice\coreSW\coreSW\bin\Debug\netcoreapp2.0\coreSW.deps.json
+E:\practice\coreSW\coreSW\bin\Debug\netcoreapp2.0\coreSW.runtimeconfig.json
+E:\practice\coreSW\coreSW\bin\Debug\netcoreapp2.0\coreSW.runtimeconfig.dev.json
+E:\practice\coreSW\coreSW\bin\Debug\netcoreapp2.0\coreSW.dll
+E:\practice\coreSW\coreSW\obj\Debug\netcoreapp2.0\coreSW.csprojResolveAssemblyReference.cache
+E:\practice\coreSW\coreSW\obj\Debug\netcoreapp2.0\coreSW.csproj.CoreCompileInputs.cache
+E:\practice\coreSW\coreSW\obj\Debug\netcoreapp2.0\coreSW.AssemblyInfoInputs.cache
+E:\practice\coreSW\coreSW\obj\Debug\netcoreapp2.0\coreSW.AssemblyInfo.cs
+E:\practice\coreSW\coreSW\bin\Debug\netcoreapp2.0\coreSW.pdb
+E:\practice\coreSW\coreSW\obj\Debug\netcoreapp2.0\coreSW.dll
+E:\practice\coreSW\coreSW\obj\Debug\netcoreapp2.0\coreSW.pdb
